@@ -3,7 +3,7 @@
 ## Important Note
 s
 In 2023, Salesforce launched the Nonprofit Cloud which is at the foundation of Salesforce for Nonprofits. Nonprofit Cloud helpfgfs teams unify their data to work beyond silos and better collaborate, share, learn from, and use their data. Use Nonprofit Cloud as your a single solution to begin or continue in your digital transformation journey.  Read more about the [new Nonprofit Cloud](https://www.salesforce.com/blog/new-nonprofit-cloud/). Some key highlights:
-d
+dd
 * Salesforce will to continue support our managed package products, including the Nonprofit Success Pack. Tens of thousands of customers use our current managed package products to achieve great results. 
 * Many of our ISV partners are building fantastic solutions for our managed packages as well as the new Nonprofit Cloud. We’re working with these partners to ensure that they understand our new product architecture, and are able to bring their years of experience and learnings to the new Nonprofit Cloud.
 * Salesforce remains deeply committed to nonprofit pricing. There are many new capabilities within the new Nonprofit Cloud and we work hard to maintain our nonprofit discounts across the new products. Our goals are to simplify access to nonprofit technology and make it easier for customers to get started.
